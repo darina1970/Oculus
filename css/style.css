@@ -86,11 +86,11 @@ body{
 }
 
 .basket{
-  position: relative;
+  /* position: relative; */
   justify-self: end;
 }
 
-.basket--on span{
+/* .basket--on span{
   font-size: 11px;
   width: 15px;
   height: 15px;
@@ -103,7 +103,7 @@ body{
   justify-content: center;
   bottom: 0;
   right: -2px;
-}
+} */
 
 .top{
   min-height: calc(100vh - 81px);
@@ -568,7 +568,6 @@ color: #CACAD6;
   justify-self: end;
   gap: 20px;
 }
-
 
 
 
